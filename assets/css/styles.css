@@ -55,9 +55,10 @@ h2 {
 	border-radius: 50%;
 	/*border: 10px solid rgba(241,241,241,0.2);*/
 	position: relative;
-	top: -90px;
-	left: 40px;
+	top: 110px;
+	left: 510px;
 	margin-bottom: 20px;
+	border: 10px solid rgba(241,241,241,0.4);
 }
 
 .bio {
@@ -72,11 +73,11 @@ h2 {
 
 .container {
 	position: absolute;
-	top: 25%;
+	top: 45%;
 	left: 25%;
 	background-color: rgba(241,241,241,0.4);
 	width: 600px;
-	text-align: left;
+	text-align: center;
 	margin: 0 auto;
 	padding: 20px 0px;
 	padding-bottom: 0px;
@@ -87,7 +88,7 @@ h2 {
 	margin-top: -20px;
 	font-family: "Karla";
 	font-size: 14px;
-	text-align: right;
+	text-align: center;
 	padding: 10px 30px;
 	background: #2C2C2C;
 	width: 100%;
